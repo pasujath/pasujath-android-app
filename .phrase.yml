@@ -1,0 +1,15 @@
+phrase:
+  access_token: 5f3372f3049f24d34e84d6aa58b27d79445adc5629ac1e76fff6c2ff14397f4f
+  project_id: 025eceab343f35522870b40bbabe8dfd
+  push:
+    sources:
+    - file: ./pasujath-android-app/src/main/res/test-phrase/values-<locale_code>/strings.xml
+      params:
+        file_format: xml
+        locale_id: en
+        update_translations: true
+  pull:
+    targets:
+    - file: ./pasujath-android-app/src/main/res/test-phrase/values-<locale_code>/strings.xml
+      params:
+        file_format: xml
