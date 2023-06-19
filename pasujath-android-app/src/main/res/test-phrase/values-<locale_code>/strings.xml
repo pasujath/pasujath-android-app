@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!--Title for the alerts page-->
+    <string name="general_title_alerts">Alerts</string>
+
+    <!--Title for the assist me page -->
+    <string name="general_title_assistMe">Assist me</string>
+
+    <!--Title for the feedback page -->
+    <string name="general_title_feedback">Feedback</string>
+
+    <!-- Title for calendar screens -->
+    <string name="general_title_dates">Dates</string>
+
+</resources>
