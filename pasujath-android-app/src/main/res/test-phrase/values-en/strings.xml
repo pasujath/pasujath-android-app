@@ -12,5 +12,7 @@
 
     <!-- Title for calendar screens -->
     <string name="general_title_dates">Dates</string>
+    
+    <string name="general_title_searchResults">Search results</string>
 
 </resources>
