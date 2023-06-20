@@ -12,5 +12,8 @@
 
     <!-- Title for calendar screens -->
     <string name="general_title_dates">Dates</string>
+    
+    <string name="general_msg_update">An enhanced version of <xliff:g example="TestCompany" id="appName">%1$s</xliff:g> is now available! We recommend updating your app to the latest version to ensure you have the best experience.
+	</string>
 
 </resources>
